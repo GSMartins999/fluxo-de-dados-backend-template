@@ -1,6 +1,6 @@
 export enum ACCOUNT_TYPE {
     GOLD = "Ouro",
-    PLATINUM = "Platina",
+    PLATINUM = "Platinum",
     BLACK = "Black"
 }
 
